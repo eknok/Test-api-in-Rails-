@@ -3,6 +3,11 @@
 This is creates API in Rails and outputs in Rails .
 ---
 
+## API
+Qiita - [Qiita API v2](https://qiita.com/api/v2/docs)
+connpass - [connpass API](https://connpass.com/about/api/)
+Slack - [Slack API](https://api.slack.com/)
+
 ## Gem
 
 -

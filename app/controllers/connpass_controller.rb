@@ -1,5 +1,8 @@
 class ConnpassController < ApplicationController
+  include ConnpassHelper
+
   def index
+    connpass_research(params[:keyword]) if params[:keyword]
   end
 
   def show
@@ -19,4 +22,8 @@ class ConnpassController < ApplicationController
 
   def destroy
   end
+
+  def top
+  end
+
 end

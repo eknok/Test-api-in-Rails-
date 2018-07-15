@@ -1,24 +1,25 @@
-# README
+# Api Test
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is creates API in Rails and outputs in Rails .
+---
 
-Things you may want to cover:
+## Gem
 
-* Ruby version
+-
+-
+-
 
-* System dependencies
+## Version
 
-* Configuration
+- Ruby 2.5.1  
+- Rails 5.1.6
 
-* Database creation
+## How to
 
-* Database initialization
+-
+-
 
-* How to run the test suite
+## Memo
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+無力さの極み
+Thank you SM.
